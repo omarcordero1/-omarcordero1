@@ -9,3 +9,23 @@
 LinkedIn: https://www.linkedin.com/in/omar-said-cordero-lugo/
 Hugging Face: https://huggingface.co/omarcordero31
 ⚡ Dato curioso: me obsesiona convertir datos en decisiones editoriales accionables y automatizar insights que impacten tráfico en tiempo real 🚀
+
+Mis proyectos:
+
+https://huggingface.co/omarcordero31
+
+NLP:
+
+https://huggingface.co/spaces/omarcordero31/pulso
+
+Gamificación:
+
+https://gemini.google.com/share/921799cef9f8
+
+Detección de tendencias:
+
+https://gemini.google.com/share/1a0374a49cf3
+
+
+
+
